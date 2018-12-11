@@ -6,7 +6,7 @@ using System.Linq;
 using System.Collections.Generic;
 //myish
 namespace TechJobs.Controllers
-{
+{//done
     public class ListController : Controller
     {
 
